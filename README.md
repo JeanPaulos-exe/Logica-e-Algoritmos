@@ -5,3 +5,6 @@ Este repositório contém minhas anotações, códigos e exercícios realizados 
 ### Conteúdo:
 
 * **Seção 3 - Estrutura Sequencial**
+* [Estrutura Sequencial + Exercício](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EstruturaSequencial/src)
+* [Teste de Processamento](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/TesteProcessamento/src)
+* [Entrada de Dados](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EntradaDados/src)
