@@ -5,13 +5,18 @@ Este repositório contém minhas anotações, códigos e exercícios realizados 
 ## Conteúdo:
 
 * **Seção 3 - Estrutura Sequencial**
-* [Estrutura Sequencial + Exercício](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EstruturaSequencial/src)
+* [Estrutura Sequencial](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EstruturaSequencial/src)
 * [Teste de Processamento](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/TesteProcessamento/src)
 * [Entrada de Dados](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EntradaDados/src)
 * [Funções matemáticas](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/FuncoesMatematica/src)
 
 <hr>
 
-## Exercícios propostos:
-### Os exercícios desta seção foram retirados do URI Online Judge e fazem parte das atividades sugeridas pelo professor Nélio Alves ao longo do curso.
-* [Exercícios (até aula 25)](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/uri/src)
+## Exercícios:
+### URI Online Judge
+Os exercícios desta seção foram retirados do URI Online Judge e fazem parte das atividades sugeridas pelo professor Nélio Alves ao longo do curso.
+* [Exercícios propostos](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/uri/src)
+
+### Outros Exercícios
+Estes exercícios foram realizados durante o curso, mas não são provenientes do URI Online Judge.
+* [Exercícios resolvidos](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/Exercicios/src)
