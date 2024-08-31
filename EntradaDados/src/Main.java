@@ -51,46 +51,6 @@ public class Main {
 		System.out.println(s3);
 
 		sc.close();  // Fecha o Scanner para liberar recursos
-		
-		import java.util.Locale;
-		import java.util.Scanner;
-
-		public class Main {
-
-		    public static void main(String[] args) {
-		        Locale.setDefault(Locale.US); // Configura o locale para usar ponto como separador decimal
-		        Scanner sc = new Scanner(System.in); // Cria um objeto Scanner para ler dados do teclado
-
-		        // **Bloco 1: Demonstração de diferentes tipos de leitura**
-		        // (Este bloco tem problemas de reutilização de variáveis)
-		        // ...
-
-		        // **Bloco 2: Leitura de um inteiro e um double**
-		        int y = sc.nextInt(); // Lê um número inteiro
-		        double z = sc.nextDouble(); // Lê um número de ponto flutuante
-
-		        System.out.println("Dados digitados:");
-		        System.out.println(y);
-		        System.out.println(z);
-
-		        // **Bloco 3: Leitura de um inteiro e três linhas de texto**
-		        int x = sc.nextInt(); // Lê um número inteiro
-		        sc.nextLine(); // Consome a quebra de linha após ler o inteiro
-		        String s1 = sc.nextLine(); // Lê a primeira linha de texto
-		        String s2 = sc.nextLine(); // Lê a segunda linha de texto
-		        String s3 = sc.nextLine(); // Lê a terceira linha de texto
-
-		        System.out.println("DADOS DIGITADOS:");
-		        System.out.println(x);
-		        System.out.println(s1);
-		        System.out.println(s2);
-		        System.out.println(s3);
-
-		        sc.close(); // Fecha o Scanner para liberar recursos
-		    }
-		}
-		
-
 	}
 }
 
