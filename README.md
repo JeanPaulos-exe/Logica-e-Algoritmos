@@ -9,7 +9,7 @@ Este repositório contém minhas anotações, códigos e exercícios realizados 
 * [Teste de Processamento](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/TesteProcessamento/src)
 * [Entrada de Dados](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EntradaDados/src)
 * [Funções matemáticas](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/FuncoesMatematica/src)
-*  ** Seção 4 - Estrutura Condicional**
+* **Seção 4 - Estrutura Condicional**
 *  [Estrutura Condicional](https://github.com/JeanPaulos-exe/Logica-e-Algoritmos/tree/main/EstruturaCondicional/src)
 
 <hr>
